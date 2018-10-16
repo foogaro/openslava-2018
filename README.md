@@ -1,0 +1,2 @@
+# OpenSlava 2018
+See the PDF  [FUGARO_OPENSLAVA2018-last](FUGARO_OPENSLAVA2018-last.pdf)
