@@ -9,7 +9,7 @@
     <url>http://maven.apache.org</url>
 
     <build>
-        <finalName>${project.name}</finalName>
+        <finalName>ROOT.war</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-war-plugin</artifactId>
